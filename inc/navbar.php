@@ -113,8 +113,6 @@
         </div>
       </nav>
 	 
-
-
 	  <?php } else{ ?>	
       <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light site-navbar-target" id="ftco-navbar">
 	    <div class="container">
